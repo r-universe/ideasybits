@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "redatamx"]
+	path = redatamx
+	url = https://github.com/ideasybits/redatamx4r
